@@ -1,0 +1,6 @@
+# 日志级别
+LogLevel: debug
+# 地址
+IPAddr: "8.8.9.9"
+# 端口
+Port: 9000
